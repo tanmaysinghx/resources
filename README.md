@@ -33,3 +33,13 @@
 ### Angular Stying Libraries
 
 #### Material UI
+- npm install @angular/material
+- https://material.angular.io/
+
+#### Tailwind CSS
+- npm install tailwindcss postcss autoprefixer
+- npx tailwindcss init
+- @import 'tailwindcss/base';
+  @import 'tailwindcss/components';
+  @import 'tailwindcss/utilities';
+
