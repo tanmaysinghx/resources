@@ -13,6 +13,7 @@
 
 ### Angular Microfrontend Single-Spa creation
 
+- https://single-spa.js.org/docs/ecosystem-angular/#angular-15
 - ng new job-app-ui-profile --routing --prefix job-app-ui-profile
 - cd job-app-ui-profile
 
@@ -42,4 +43,18 @@
 - @import 'tailwindcss/base';
   @import 'tailwindcss/components';
   @import 'tailwindcss/utilities';
+- https://tailwindcss.com/
+
+#### Bootstrap CSS
+- ng add ngx-bootstrap
+- https://valor-software.com/ngx-bootstrap/
+
+#### NG ZORRO CSS
+- npm install -g @angular/cli
+- https://ng.ant.design/docs/introduce/en
+
+#### TW Elements CSS
+- npm install tw-elements
+- https://tw-elements.com/docs/standard/getting-started/quick-start/
+
 
