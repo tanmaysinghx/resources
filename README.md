@@ -1,6 +1,6 @@
 # Resources file for Angular, Microfrontend with Single-Spa, SpringBoot, IOS Development and CSS libraries 
 
-# Angular Commands
+# Angular
 
 ### Angular CLI
 
@@ -11,4 +11,21 @@
 - ng generate module module-name (To generate a module)
 - ng generate interceptor interceptor-name (To generate interceptor to edit curl headers)
 
+### Angular Microfrontend Single-Spa creation
 
+- ng new job-app-ui-profile --routing --prefix job-app-ui-profile
+- cd job-app-ui-profile
+
+- npm install @angular/material
+
+- ng add single-spa-angular
+
+- Edit file - app-routing.module.ts
+1) Add providers: 
+2) Add empty path: { path: '**', component: EmptyRouteComponent }
+3) Change path: "customWebpackConfig": {
+              "path": "./extra-webpack.config.js",
+              "libraryName": "job-app-ui-header",
+              "libraryTarget": "umd"
+            },
+4) Add environments file
