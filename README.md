@@ -57,4 +57,14 @@
 - npm install tw-elements
 - https://tw-elements.com/docs/standard/getting-started/quick-start/
 
+#### Prime Faces CSS
+- https://primefaces.org/sakai-ng/#/documentation
+
+### Springboot Commands
+- mvn clean compile ---> removes target folder
+- mvn package --> creates jar
+- mvn spring-boot:run
+
+### API Endpoints open-sources
+- https://freeapi.miniprojectideas.com/index.html
 
