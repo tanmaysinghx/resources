@@ -2,9 +2,7 @@
 
 # Angular Commands
 
-### Installing Angular CLI
-
-Angular projects are typically created and managed using the Angular CLI (Command Line Interface). Install Angular CLI globally using npm (Node Package Manager) with the following command:
+### Angular CLI
 
 - npm install -g @angular/cli@15.1.1 (To install a particular angular version)
 - ng generate new MyApp (To create a new angular application)
