@@ -1,4 +1,4 @@
-# Resources file for Angular, Microfrontend with Single-Spa, SpringBoot, IOS Development and CSS libraries 
+# Resources file for Angular, Microfrontend with Single-Spa, SpringBoot, IOS Development, AWS DevOPS and CSS libraries 
 
 # Angular
 
