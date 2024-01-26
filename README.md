@@ -10,7 +10,7 @@
 - ng generate service services/my-service (To generate a angular components)
 - ng generate module module-name (To generate a module)
 - ng generate interceptor interceptor-name (To generate interceptor to edit curl headers)
-- ng generate guard auth
+- ng generate guard auth (To generate auth guard)
 
 ### Angular Microfrontend Single-Spa creation
 
