@@ -48,7 +48,7 @@
 
 #### Bootstrap CSS
 - ng add ngx-bootstrap
-- https://valor-software.com/ngx-bootstrap/
+- https://valor-software.com/ngx-bootstrap
 
 #### NG ZORRO CSS
 - npm install -g @angular/cli
