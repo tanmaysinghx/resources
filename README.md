@@ -62,9 +62,9 @@
 - https://primefaces.org/sakai-ng/#/documentation
 
 ### Springboot Commands
-- mvn clean compile ---> removes target folder
-- mvn package --> creates jar
-- mvn spring-boot:run
+- mvn clean compile (removes target folder)
+- mvn package (creates jar)
+- mvn spring-boot:run (to run application)
 
 ### API Endpoints open-sources
 - https://freeapi.miniprojectideas.com/index.html
