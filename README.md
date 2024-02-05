@@ -70,5 +70,6 @@
 - https://freeapi.miniprojectideas.com/index.html
 
 - ### Open-sources contributions
-- (https://github.com/nocodb/nocodb)https://github.com/nocodb/nocodb
+- https://github.com/nocodb/nocodb)https://github.com/nocodb/nocodb
+- https://github.com/calcom/cal.com
 
