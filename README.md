@@ -69,7 +69,16 @@
 ### API Endpoints open-sources
 - https://freeapi.miniprojectideas.com/index.html
 
-- ### Open-sources contributions
-- https://github.com/nocodb/nocodb)https://github.com/nocodb/nocodb
-- https://github.com/calcom/cal.com
+### Open-sources contributions
+- https://github.com/nocodb/nocodb 
+- https://github.com/calcom/cal.com (React)
+- https://github.com/storybookjs/storybook (Angular)
+- https://github.com/ghostfolio/ghostfolio (Angular)
+- https://github.com/smaranjitghose/girlscript_app (React Native)
+
+### Refer Projects
+- https://github.com/theindianappguy/doctor_booking_app
+- https://github.com/MarcusNg/flutter_onboarding_ui
+- https://github.com/abuanwar072/Movie-Info---Flutter-UI
+- https://github.com/abuanwar072/eBook_app_Flutter
 
