@@ -66,10 +66,11 @@
 - mvn package (creates jar)
 - mvn spring-boot:run (to run application)
 
-### Terraform Commands
+### Terraform and AWS Commands
 - terraform init
 - terraform plan 
 - terraform apply -auto-approve
+- aws configure
   
 ### API Endpoints open-sources
 - https://freeapi.miniprojectideas.com/index.html
