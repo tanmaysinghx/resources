@@ -32,6 +32,9 @@
             },
 4) Add environments file
 
+#### Next JS
+- npx create-next-app@latest
+
 ### Angular Stying Libraries
 
 #### Material UI
