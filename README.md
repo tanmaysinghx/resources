@@ -12,6 +12,12 @@
 - ng generate interceptor interceptor-name (To generate interceptor to edit curl headers)
 - ng generate guard auth (To generate auth guard)
 
+### React JS
+
+- npx create-react-app my-project
+- npm install -D tailwindcss
+- npx tailwindcss init
+
 ### Angular Microfrontend Single-Spa creation
 
 - https://single-spa.js.org/docs/ecosystem-angular/#angular-15
